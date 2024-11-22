@@ -3,14 +3,13 @@
 
 #### I am Front End Developer
 
-I am Graphic Designer | Digital Marketing Specialist & WordPress Specialist
+## My Skills:
+✔ HTML
+✔ CSS
+✔ JS
+✔ Bootstrap 
+✔ TailwindCSS 
+✔ WordPress 
+✔ Social Media Marketing
 
-Skills:  HTML / CSS / JS / Bootstrap / TailwindCSS /  WordPress / Social Media Marketing / 
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React JS , PHP 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antorkumerray)](https://github.com/anuraghazra/github-readme-stats)
 

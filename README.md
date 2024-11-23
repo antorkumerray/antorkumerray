@@ -6,7 +6,7 @@
 ### <p class="mailantor"><a style="font-weight: 500; font-family: sans-serif;" href="mailto:antorkumerray10@gmail.com">antorkumerray10@gmail.com</a></p>
     
 
-### <a class="fbantor" target="_blank" href="https://www.facebook.com/antorkumerray">follow @antorkumerray🤍</a>
+### <a style="text-transform: uppercase; background-color: #555555; padding: 10px; color: #fff; text-decoration: none; font-weight: 500; font-family: sans-serif; word-spacing: 10px; letter-spacing: 1px;" class="fbantor" target="_blank" href="https://www.facebook.com/antorkumerray">follow @antorkumerray🤍</a>
 
 
 ### <a class="webantor" target="_blank" href="https://antorkumerray.blogspot.com/">✔ Website</a>

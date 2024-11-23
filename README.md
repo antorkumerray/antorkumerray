@@ -3,7 +3,7 @@
 
 #### I am Front End Developer
 
-### <p class="mailantor"><a href="mailto:antorkumerray10@gmail.com">antorkumerray10@gmail.com</a></p>
+### <p class="mailantor"><a style="font-weight: 500; font-family: sans-serif;" href="mailto:antorkumerray10@gmail.com">antorkumerray10@gmail.com</a></p>
     
 
 ### <a class="fbantor" target="_blank" href="https://www.facebook.com/antorkumerray">follow @antorkumerray🤍</a>

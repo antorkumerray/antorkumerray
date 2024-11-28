@@ -10,6 +10,11 @@
 
 ### <a class="webantor" target="_blank" href="https://antorkumerray.blogspot.com/">✔ Website</a>
 
+## About Me:
+<p>Hey, I am ANTOR as a Professional Front-End Developer and Digital Marketing Specialist. I have more than 2 years experience as a Front-End Developer and Digital Marketing Manager.
+<br/>
+Already I have been successfully completed 45 project in locally. You can hire me to your project.</p>
+
 ## My Skills:
 - ✔ HTML
 - ✔ CSS

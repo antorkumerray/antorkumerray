@@ -1,12 +1,14 @@
 ### Hi, I'm Antor Kumer Ray 👋
 #### I am Front End Developer
-
+<br/>
 ## About Me:
 #### <p>Hey, I am ANTOR as a Professional Front-End Developer and Digital Marketing Specialist. I have more than 2 years experience as a Front-End Developer and Digital Marketing Manager. Already I have been successfully completed 45 project in locally. You can hire me to your project.</p>
-
-### Contact For Everything: <p class="mailantor"><a style="font-weight: 500; font-family: sans-serif;" href="mailto:antorkumerray10@gmail.com">antorkumerray10@gmail.com</a></p> ✉
+<br/>
+<br/>
+### Email ✉️ : <p class="mailantor"><a style="font-weight: 500; font-family: sans-serif;" href="mailto:antorkumerray10@gmail.com">antorkumerray10@gmail.com</a></p>
 ### Social Account 👉 <a style="text-transform: uppercase; background-color: #555555; padding: 10px; color: #fff; text-decoration: none; font-weight: 500; font-family: sans-serif; word-spacing: 10px; letter-spacing: 1px;" class="fbantor" target="_blank" href="https://www.facebook.com/antorkumerray"> @antorkumerray🤍</a>
 ### 🌐<a class="webantor" target="_blank" href="https://antorkumerray.blogspot.com/"> ANTOR </a>
+![image](https://github.com/user-attachments/assets/f5bb8180-8659-45e7-a0ba-41c5adfe4f58)
 
 ## My Skills:
 - ✔ HTML

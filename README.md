@@ -10,6 +10,7 @@
 ### ✉️ Mail: <a href="mailto:antorkumerray10@gmail.com">antorkumerray10@gmail.com</a>
 ### 🌸 Social Media : <a style="text-transform: uppercase; background-color: #555555; padding: 10px; color: #fff; text-decoration: none; font-weight: 500; font-family: sans-serif; word-spacing: 10px; letter-spacing: 1px;" class="fbantor" target="_blank" href="https://www.facebook.com/antorkumerray"> @antorkumerray🤍</a>
 ### 🌐 View Web : <a class="webantor" target="_blank" href="https://antorkumerray.blogspot.com/"> ANTOR </a>
+### 💥 <a class="webantor" target="_blank" href=""> View Projects </a>
 
 ## My Skills:
 - ✔ HTML

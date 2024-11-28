@@ -1,19 +1,12 @@
-### Hi, I'm Antor Kumer Ray👋
-
+### Hi, I'm Antor Kumer Ray 👋
 #### I am Front End Developer
 
-### <p class="mailantor"><a style="font-weight: 500; font-family: sans-serif;" href="mailto:antorkumerray10@gmail.com">antorkumerray10@gmail.com</a></p>
-    
-
-### <a style="text-transform: uppercase; background-color: #555555; padding: 10px; color: #fff; text-decoration: none; font-weight: 500; font-family: sans-serif; word-spacing: 10px; letter-spacing: 1px;" class="fbantor" target="_blank" href="https://www.facebook.com/antorkumerray">follow @antorkumerray🤍</a>
-
-
-### <a class="webantor" target="_blank" href="https://antorkumerray.blogspot.com/">✔ Website</a>
-
 ## About Me:
-<p>Hey, I am ANTOR as a Professional Front-End Developer and Digital Marketing Specialist. I have more than 2 years experience as a Front-End Developer and Digital Marketing Manager.
-<br/>
-Already I have been successfully completed 45 project in locally. You can hire me to your project.</p>
+#### <p>Hey, I am ANTOR as a Professional Front-End Developer and Digital Marketing Specialist. I have more than 2 years experience as a Front-End Developer and Digital Marketing Manager. Already I have been successfully completed 45 project in locally. You can hire me to your project.</p>
+
+### Contact For Everything: <p class="mailantor"><a style="font-weight: 500; font-family: sans-serif;" href="mailto:antorkumerray10@gmail.com">antorkumerray10@gmail.com</a></p> ✉
+### Social Account 👉 <a style="text-transform: uppercase; background-color: #555555; padding: 10px; color: #fff; text-decoration: none; font-weight: 500; font-family: sans-serif; word-spacing: 10px; letter-spacing: 1px;" class="fbantor" target="_blank" href="https://www.facebook.com/antorkumerray"> @antorkumerray🤍</a>
+### Website 👉 <a class="webantor" target="_blank" href="https://antorkumerray.blogspot.com/"> ANTOR </a>
 
 ## My Skills:
 - ✔ HTML
@@ -26,29 +19,13 @@ Already I have been successfully completed 45 project in locally. You can hire m
 
 
 
-
-<h1>Hi 👋, I'm mmmm</h1>
-<h3>A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working on [mmm](mmmm)
-
-- 👨‍💻 All of my projects are available at [mm](mm)
-
-- 📝 I regularly write articles on [mm](mm)
-
-- 📫 How to reach me **mmm**
-
-- 📄 Know about my experiences [mm](mm)
-
-- ⚡ Fun fact **mm**
-
-<h3 align="left">Connect with me:</h3>
+## 🥰 Connect With Me:
 <p align="left">
-<a href="https://twitter.com/mmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmm" height="30" width="40" /></a>
+<a href="https://twitter.com/mmm" target="blank"><img align="center" src="" alt="mmm" height="30" width="40" /></a>
+    
 <a href="https://linkedin.com/in/mmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmm" height="30" width="40" /></a>
+
 <a href="https://fb.com/mmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mmm" height="30" width="40" /></a>
+
 <a href="https://instagram.com/mmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmm" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
